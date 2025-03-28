@@ -4,14 +4,14 @@
 The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools and verify its functionality through transient analysis simulation.
 
 ## TOOLS REQUIRED:
-### CADENCE EDA SUITE
+### CADENCE EDA SUITE:
 - **Virtuoso Schematic Editor** (for circuit design)
 - **Spectre Simulator** (for circuit simulation)
 
-### PROCESS DESIGN KIT (PDK)
+### PROCESS DESIGN KIT (PDK):
 - CMOS technology library (45nm node)  
 
-### COMPUTER SYSTEM
+### COMPUTER SYSTEM:
 - Minimum **4GB RAM** and a **multi-core processor**
 
 ## PROCEDURE:
